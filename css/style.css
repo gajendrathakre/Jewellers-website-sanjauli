@@ -11650,7 +11650,8 @@ ul.cherry-collection-list-cherry {
   margin: 100px auto 0 auto;
   width: 90%; }
   .iconic-jeweller-icon img {
-    width: 100%; }
+    width: 100%;
+    margin-left:-15px;}
 
 .iconic-icon-text {
   font-family: 'Didot' !important;
